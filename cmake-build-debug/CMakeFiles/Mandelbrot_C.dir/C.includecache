@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/ICS4UI/ICS Files/Mandelbrot/Mandelbrot C/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+windows.h
+-
+GL/glut.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+

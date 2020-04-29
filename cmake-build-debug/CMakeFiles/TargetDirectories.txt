@@ -1,0 +1,3 @@
+H:/ICS4UI/ICS Files/Mandelbrot/Mandelbrot C/cmake-build-debug/CMakeFiles/Mandelbrot_C.dir
+H:/ICS4UI/ICS Files/Mandelbrot/Mandelbrot C/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/ICS4UI/ICS Files/Mandelbrot/Mandelbrot C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
